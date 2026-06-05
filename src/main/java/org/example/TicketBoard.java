@@ -1,4 +1,6 @@
-{
+package org.example;
+
+public class  TicketBoard {
     private final Ticket[] tickets;
     private int size;
 
